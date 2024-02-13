@@ -5,5 +5,10 @@ public class gun01 {
         System.out.println("fuck");
         System.out.println("girl");
         System.out.println("hhh");
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println("yeah");
+
+        }
     }
 }
